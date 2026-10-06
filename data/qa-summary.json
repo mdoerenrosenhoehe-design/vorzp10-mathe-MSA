@@ -1,0 +1,39 @@
+{
+  "topicTaskCounts": {
+    "zahlen": 108,
+    "algebra": 108,
+    "prozent": 108,
+    "linear": 108,
+    "quadratisch": 108,
+    "wachstum": 108,
+    "geometrie": 108,
+    "koerper": 108,
+    "statistik": 108,
+    "wahrscheinlichkeit": 108
+  },
+  "challengeCounts": {
+    "zahlen": 8,
+    "algebra": 8,
+    "prozent": 8,
+    "linear": 8,
+    "quadratisch": 8,
+    "wachstum": 8,
+    "geometrie": 8,
+    "koerper": 8,
+    "statistik": 8,
+    "wahrscheinlichkeit": 8
+  },
+  "flashcardCounts": {
+    "zahlen": 12,
+    "algebra": 12,
+    "prozent": 12,
+    "linear": 12,
+    "quadratisch": 12,
+    "wachstum": 12,
+    "geometrie": 12,
+    "koerper": 12,
+    "statistik": 12,
+    "wahrscheinlichkeit": 12
+  },
+  "examVariants": 20
+}
